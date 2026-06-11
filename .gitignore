@@ -1,0 +1,4 @@
+.venv/
+springboottool/
+data/creditcard.csv
+__pycache__/
